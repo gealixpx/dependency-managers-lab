@@ -1,6 +1,10 @@
 Ініціалізувати проект:
-npm init -y
+`npm init -y`
+
 Встановити бібліотеку axios:
-npm install axios
+`npm install axios`
+
 Запуск прикладу:
+```bash
 node example.js
+```
